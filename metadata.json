@@ -1,0 +1,5 @@
+{
+  "name": "Quản lý Vật Tư",
+  "description": "Ứng dụng quản lý vật tư thông minh sử dụng Gemini AI để theo dõi tồn kho, phân tích dữ liệu và hỗ trợ nhập liệu bằng ngôn ngữ tự nhiên.",
+  "requestFramePermissions": []
+}
